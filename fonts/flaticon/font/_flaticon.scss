@@ -1,13 +1,12 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 06/05/2019 12:06
+    Creation date: 05/07/2018 04:38
     */
 
     @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
-       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -37,16 +36,18 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-airplane:before { content: "\f100"; }
-.flaticon-add:before { content: "\f101"; }
-.flaticon-ferry:before { content: "\f102"; }
-.flaticon-box:before { content: "\f103"; }
-.flaticon-lorry:before { content: "\f104"; }
-.flaticon-warehouse:before { content: "\f105"; }
+    .flaticon-car:before { content: "\f100"; }
+.flaticon-resort:before { content: "\f101"; }
+.flaticon-yatch:before { content: "\f102"; }
+.flaticon-map-of-roads:before { content: "\f103"; }
+.flaticon-compass:before { content: "\f104"; }
+.flaticon-around:before { content: "\f105"; }
+.flaticon-sailboat:before { content: "\f106"; }
     
-    $font-Flaticon-airplane: "\f100";
-    $font-Flaticon-add: "\f101";
-    $font-Flaticon-ferry: "\f102";
-    $font-Flaticon-box: "\f103";
-    $font-Flaticon-lorry: "\f104";
-    $font-Flaticon-warehouse: "\f105";
+    $font-Flaticon-car: "\f100";
+    $font-Flaticon-resort: "\f101";
+    $font-Flaticon-yatch: "\f102";
+    $font-Flaticon-map-of-roads: "\f103";
+    $font-Flaticon-compass: "\f104";
+    $font-Flaticon-around: "\f105";
+    $font-Flaticon-sailboat: "\f106";
